@@ -15,7 +15,7 @@ This is my personal portfolio showcasing one of my major academic projects.
 A web-based system that allows NEU alumni to access, view, and download their yearbooks anytime.
 
 **📍 For:**  
-**New Era University – Press and Publication Office & Multimedia Office**
+**New Era University – ALumni, Press and Publication Office & Multimedia Office**
 
 **🧰 Tools Used:**  
 - **HTML** – page structure  
@@ -43,35 +43,39 @@ Here are some of the user interface designs I created in Figma. These projects d
 ---
 
 ### 🚀 Apollo  
-🔗 [View on Figma](https://www.figma.com/file/your-apollo-design-link)  
+🔗 https://www.figma.com/design/ftwHhEUsgvo65IfOxH6i5p/APOLLO?t=aABT9am9ze6tWTp9-1
+
 **Description:**  
 Apollo is a modern e-commerce platform designed to help users browse, search, and purchase fashion products with ease. The design includes a visually appealing homepage, product listing pages with filter and sort functions, detailed product views, and a user-friendly checkout process.
 
 ---
 
 ### 📘 Alumni Digital Yearbook System (Dashboard)  
-🔗 [View on Figma](https://www.figma.com/file/your-yearbook-dashboard-link)  
+🔗 https://www.figma.com/design/aN5In7Xg5nQ7g7H6T7EwKe/Alumni-Digital-Yearbook-System-UI?node-id=0-1&t=zda8bFfIXuM54vVH-1  
 **Description:**  
 This design focuses on the alumni dashboard of the Alumni Digital Yearbook System, which allows NEU graduates to conveniently access and download their digital yearbooks. The dashboard features a simple and organized layout where users can view available yearbooks sorted by batch or school year. The admin interface was also considered during the planning stage to allow yearbook uploads and management. The goal was to design a minimal but functional interface that is easy to use for alumni users of varying tech backgrounds.
 
 ---
 
 ### 🇯🇵 JaFun  
-🔗 [View on Figma](https://www.figma.com/file/your-jafun-design-link)  
+🔗 https://www.figma.com/design/JapJ4M3HR5EmPIgyQINgPJ/JaFun?node-id=0-1&t=zwh9TS5VkDRqBeId-1 
+
 **Description:**  
 JaFun is a mobile application designed to support learners who want to study the Japanese language in a fun and interactive way. The design includes features like lesson modules, vocabulary flashcards, pronunciation guides, daily streak tracking, and mini-quizzes to reinforce learning. The interface promotes an engaging user experience by incorporating gamified elements such as badges, levels, and personalized progress dashboards. The design aims to encourage continuous learning while keeping the user motivated and focused.
 
 ---
 
 ### 💊 Pharmassist Web  
-🔗 [View on Figma](https://www.figma.com/file/your-pharmassist-web-link)  
+🔗 https://www.figma.com/design/h8jubYt7MATQieWNuwNjvL/PHARMASSIST?node-id=0-1&t=rnwf3Sro62dvGs9S-1
+
 **Description:**  
 Pharmassist Web is an online medicine ordering platform aimed at making pharmaceutical purchases more accessible. The design includes features such as a categorized medicine catalog, search functionality, shopping cart, secure checkout process, and user account management. The interface was designed to be clean and efficient to help users find what they need quickly, especially those who may not be tech-savvy. The layout also considers pharmacy staff, providing them with an admin portal for inventory management, order tracking, and communication with customers. It also features user account pages for order tracking, profile editing, and wishlist management. The focus of this project was to create a clean and engaging shopping experience while maintaining clarity and responsiveness across devices.
 
 ---
 
 ### 📱 Pharmassist Mobile  
-🔗 [View on Figma](https://www.figma.com/file/your-pharmassist-mobile-link)  
+🔗 https://www.figma.com/design/h8jubYt7MATQieWNuwNjvL/PHARMASSIST-WEB?node-id=2312-66&t=rnwf3Sro62dvGs9S-1
+
 **Description:**  
 Pharmassist Mobile is the mobile version of the Pharmassist Web system, optimized for users who prefer to order medicines using their smartphones. The mobile design maintains all essential functionalities such as browsing medicines, placing orders, and receiving updates. It features a responsive interface with intuitive navigation and minimal taps required to complete a transaction. This project highlights the importance of mobile accessibility and aims to deliver a reliable user experience for healthcare access on the go. It also features user account pages for order tracking, profile editing, and wishlist management. The focus of this project was to create a clean and engaging shopping experience while maintaining clarity and responsiveness across devices.
 
